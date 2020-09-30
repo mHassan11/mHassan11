@@ -11,7 +11,7 @@
 * Web Security
 * Privacy, Usable Security and Social Media
 * Social Medial Analysis
-* Automating day to day tasks
+* Looking ways to reduce the *malicious entities* on internet
 
 
  ## Who am I?
