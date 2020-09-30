@@ -1,7 +1,7 @@
 
 ### Hey, [Muhammad Hassan](https://www.facebook.com/cinnaMan96/) here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' alt = 'Awesome Matrix Code' align='right' width="200"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-MuhammadHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhassan11)](https://www.linkedin.com/in/mhassan11) [![Gmail Badge](https://img.shields.io/badge/-Hassan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhassan.3939@gmail.com)](mailto:mhassan.3939@gmail.com) 
