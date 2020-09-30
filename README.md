@@ -23,7 +23,7 @@
 				'Eating',
 				'Coding',
 				'Reading'
-				'Being up all Night chasing that ONE BUG...'
+				'Being up all night chasing that ONE BUG...'
 			]
 	
 	def getCity():
