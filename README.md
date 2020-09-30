@@ -11,7 +11,7 @@
 * Web Security
 * Privacy, Usable Security and Social Media
 * Social Medial Analysis
-* Looking ways to reduce the *malicious entities* on internet
+* Looking up ways to combat the *malicious entities* on internet
 
 
  ## Who am I?
