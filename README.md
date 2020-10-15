@@ -8,10 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mHassan11" alt="mHassan11" /> </p>
 
 ## :computer: Technologies and Topics I Love
-* Web Security
-* Privacy, Usable Security and Social Media
+* Web Technologies
+* Privacy, Usablitiy and Social Media
 * Social Medial Analysis
-* Looking up ways to combat the *malicious entities* on internet
+* Looking up ways to combat the *improve* your internet usage
 
 
  ## Who am I?
@@ -38,7 +38,7 @@
  ```
  
 ## Current Works
- * I'm currently working on understanding the vetting process of Social Websites against evil entities.
+ * I'm currently working on understanding the vetting process of Social Websites.
 
  * I'm also working up on polishing my skills 🌱 in **Competitive Programming**.
 
