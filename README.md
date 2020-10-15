@@ -9,7 +9,7 @@
 
 ## :computer: Technologies and Topics I Love
 * Web Technologies
-* Privacy, Usablitiy and Social Media
+* Usablitiy and Social Media
 * Social Medial Analysis
 * Looking up ways to combat the *improve* your internet usage
 
