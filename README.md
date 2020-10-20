@@ -9,9 +9,9 @@
 
 ## :computer: Technologies and Topics I Love
 * Web Technologies
-* Usablitiy and Social Media
+* Web Security, Privacy, and Usablitiy
 * Social Medial Analysis
-* Looking up ways to combat the *improve* your internet usage
+* Looking up ways to combat the *malicious entities* on internet
 
 
  ## Who am I?
@@ -38,7 +38,7 @@
  ```
  
 ## Current Works
- * I'm currently working on understanding the vetting process of Social Websites.
+ * I'm currently working on understanding the vetting process of Social Websites against evil entities and malicious postings.
 
  * I'm also working up on polishing my skills 🌱 in **Competitive Programming**.
 
