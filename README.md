@@ -31,7 +31,7 @@
 	
 	def Ambitions():
 		Learning2MakeOmlet()
-		CpmpleteSideProjects() #Hopefully,
+		CompleteSideProjects() #Hopefully,
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
