@@ -30,8 +30,7 @@
 		retrun [{Chicago, IL}, {Lahore, PK}]
 	
 	def Ambitions():
-		LearnKorean()
-		CreateNewInternet()
+		Learning2MakeOmlet()
 		CpmpleteSideProjects() #Hopefully,
 		# Assume 10 more awesome ambitions here  ;)
 	
