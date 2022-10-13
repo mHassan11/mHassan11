@@ -8,17 +8,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mHassan11" alt="mHassan11" /> </p>
 
 ## :computer: Technologies and Topics I Love
-* Web Technologies
-* Web Security, Privacy, and Usablitiy
+* Digital Technologies
+* Security, Privacy, and Usablitiy
 * Social Medial Analysis
-* Looking up ways to combat the *malicious entities* on internet
+* Looking up ways to combat the *malicious entities* in digital world
 
 
  ## Who am I?
  ```python
  class WhoAmI:
  	user = 'Muhammad Hassan'
-	current_edu = "University of Illinois at Chicago UIC"
+	current_edu = "University of Illinois at Urbana-Champaign UIC"
 	hobbies = [
 				'Eating',
 				'Coding',
