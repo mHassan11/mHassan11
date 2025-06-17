@@ -1,63 +1,16 @@
+# Hi there, I’m Muhammad Hassan! 👋
 
-### Hey, [Muhammad Hassan](https://www.facebook.com/cinnaMan96/) here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 👨‍🎓 PhD Candidate | Security & Privacy Professional | Digital Health Advocate
 
-<img src = 'https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif' alt = 'Awesome Matrix Code' align='right' width="400"/>
+I’m currently a PhD candidate at the University of Illinois Urbana-Champaign, passionate about making healthcare technologies safer, more usable, and accessible for everyone—from end users and developers to manufacturers and policymakers. My research and work lie at the intersection of security, privacy, and human-centered design for digital health innovation.
 
+### 🛡️ Security & Privacy Focus
 
-[![Linkedin Badge](https://img.shields.io/badge/-MuhammadHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhassan11)](https://www.linkedin.com/in/mhassan11) [![Gmail Badge](https://img.shields.io/badge/-Hassan-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhassan.3939@gmail.com)](mailto:mhassan.3939@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mHassan11" alt="mHassan11" /> </p>
+With professional expertise in security and privacy, I specialize in protecting digital technologies—including (but not limited to) smartphone applications, IoT devices, and the broader web ecosystem. I strive to ensure that technology serves people safely and responsibly, balancing innovation with robust safeguards.
 
-## :computer: Technologies and Topics I Love
-* Digital Technologies
-* Security, Privacy, and Usablitiy
-* Social Medial Analysis
-* Looking up ways to combat the *malicious entities* in digital world
+---
 
+## 🌐 Connect with me
 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Muhammad Hassan'
-	current_edu = "University of Illinois at Urbana-Champaign UIC"
-	hobbies = [
-				'Eating',
-				'Coding',
-				'Reading'
-				'Being up all night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		retrun [{Chicago, IL}, {Lahore, PK}]
-	
-	def Ambitions():
-		Learning2MakeOmlet()
-		CompleteSideProjects() #Hopefully,
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
-## Current Works
- * I'm currently working on understanding the vetting process of Social Websites against evil entities and malicious postings.
-
- * I'm also working up on polishing my skills 🌱 in **Competitive Programming**.
-
- * Also, more recently, I have worked on understanding the impact of Social Media, *Twitter* to be precise, on COVID-19 spread. I have focused on social, political and geographical factors. [Paper Link](https://arxiv.org/abs/2005.08379)
-
-
- ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=mHassan11&show_icons=true&hide=[%22issues%22])
-
-
-<!--
-**mHassan11/mHassan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/mhassan11/)
+- [Personal Website](https://mhassan11.github.io/)
